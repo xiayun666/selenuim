@@ -3,7 +3,7 @@
 <suite name="Default Suite" thread-count="2" parallel="methods">
   <test name="selenium">
     <classes>
-      <class name="com.xy.day_4_7.selenuim_grid">
+      <class name="com.xy.day1.TestDay1">
       </class>
     </classes>
   </test> <!-- selenium -->

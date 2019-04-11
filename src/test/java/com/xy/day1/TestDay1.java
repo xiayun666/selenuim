@@ -8,8 +8,7 @@ import org.testng.annotations.Test;
 public class TestDay1 {
     @Test
     public void Test1(){
-        System.setProperty("webdriver.chrome.driver","C:\\Users\\xy\\IdeaProjects\\selenium\\ChromeDriver\\chromedriver.exe");
-        WebDriver a=new ChromeDriver();
+        System.out.println("成功");
     }
 
 }
